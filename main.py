@@ -44,3 +44,4 @@ print(today_letter)
 print("nowy print")
 nowa = "nowa zmienna"
 nowa_do_githuba = "nowa zmienna do githuba"
+print("commit na nowej galezi")
