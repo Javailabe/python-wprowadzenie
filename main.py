@@ -41,4 +41,5 @@ today = "dzisiaj jest sobota"
 today_letter = today[4]
 print(today_letter)
 
-round()
+print("nowy print")
+nowa = "nowa zmienna"
